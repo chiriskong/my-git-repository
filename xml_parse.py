@@ -184,4 +184,4 @@ def main():
 		print str(err)
 		usage()
 
-
+print __name__
